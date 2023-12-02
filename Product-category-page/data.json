@@ -1,0 +1,157 @@
+{
+  "products" : [
+    {
+      "image" : "image/fastrack/f1.webp",
+      "name" : "Fastrack F1",
+      "brand" : "Fastrack",
+      "Price" : "₹1920",
+      "Discount" : "10% discount",
+      "Popularity" : "4",
+      "color" : "Silver"
+    },
+    {
+      "image" : "image/fastrack/f2.png",
+      "name" : "Fastrack F2",
+      "brand" : "fastrack",
+      "Price" : "₹1820",
+      "Discount" : "10% discount",
+      "Popularity" : "4",
+      "color" : "Gold"
+    },
+    {
+      "image" : "image/fastrack/f3.webp",
+      "name" : "Fastrack F3",
+      "brand" : "fastrack",
+      "Price" : "₹2820",
+      "Discount" : "15% discount",
+      "Popularity" : "3",
+      "color" : "Black"
+    },
+    {
+      "image" : "image/fastrack/f4.webp",
+      "name" : "Fastrack F4",
+      "brand" : "fastrack",
+      "Price" : "₹2820",
+      "Discount" : "10% discount",
+      "Popularity" : "3",
+      "color" : "Silver"
+    },
+    {
+      "image" : "image/fastrack/f5.webp",
+      "name" : "Fastrack F5",
+      "brand" : "fastrack",
+      "Price" : "₹4820",
+      "Discount" : "10% discount",
+      "Popularity" : "2",
+      "color" : "Black"
+    },
+    {
+      "image" : "image/fastrack/f6.webp",
+      "name" : "Fastrack F6",
+      "brand" : "fastrack",
+      "Price" : "₹2990",
+      "Discount" : "10% discount",
+      "Popularity" : "5",
+      "color" : "Silver"
+    },
+    {
+      "image" : "image/fastrack/f7.webp",
+      "name" : "Fastrack F7",
+      "brand" : "fastrack",
+      "Price" : "₹3000",
+      "Discount" : "20% discount",
+      "Popularity" : "3",
+      "color" : "Black"
+    },
+    {
+      "image" : "image/rado/r1.webp",
+      "name" : "RADO R-1",
+      "brand" : "Rado",
+      "Price" : "₹24820",
+      "Discount" : "10% discount",
+      "Popularity" : "3",
+      "color" : "Gold"
+    },
+    {
+      "image" : "image/rado/r2.webp",
+      "name" : "RADO R-2",
+      "brand" : "Rado",
+      "Price" : "₹22820",
+      "Discount" : "20% discount",
+      "Popularity" : "2",
+      "color" : "Silver"
+    },
+    {
+      "image" : "image/rado/r3.webp",
+      "name" : "RADO R-3",
+      "brand" : "Rado",
+      "Price" : "₹72820",
+      "Discount" : "20% discount",
+      "Popularity" : "2",
+      "color" : "Silver"
+    },
+    {
+      "image" : "image/rado/r4.webp",
+      "name" : "RADO R-4",
+      "brand" : "Rado",
+      "Price" : "₹42820",
+      "Discount" : "20% discount",
+      "Popularity" : "2",
+      "color" : "Black"
+    },
+    {
+      "image" : "image/rado/r5.webp",
+      "name" : "RADO R-5",
+      "brand" : "Rado",
+      "Price" : "₹22820",
+      "Discount" : "20% discount",
+      "Popularity" : "2",
+      "color" : "Silver"
+    },
+    {
+      "image" : "image/titan/i1.webp",
+      "name" : "Titan i1",
+      "brand" : "Titan",
+      "Price" : "₹2220",
+      "Discount" : "30% discount",
+      "Popularity" : "2",
+      "color" : "Silver"
+    },
+    {
+      "image" : "image/titan/i3.webp",
+      "name" : "Titan i3",
+      "brand" : "Titan",
+      "Price" : "₹4220",
+      "Discount" : "30% discount",
+      "Popularity" : "2",
+      "color" : "Gold"
+    },
+    {
+      "image" : "image/titan/i4.webp",
+      "name" : "Titan i4",
+      "brand" : "Titan",
+      "Price" : "₹3220",
+      "Discount" : "30% discount",
+      "Popularity" : "2",
+      "color" : "Silver"
+    },
+    {
+      "image" : "image/titan/i6.webp",
+      "name" : "Titan i6",
+      "brand" : "Titan",
+      "Price" : "₹1320",
+      "Discount" : "30% discount",
+      "Popularity" : "2",
+      "color" : "Black"
+    },
+    {
+      "image" : "image/titan/i7.webp",
+      "name" : "Titan i7",
+      "brand" : "Titan",
+      "Price" : "₹3320",
+      "Discount" : "30% discount",
+      "Popularity" : "2",
+      "color" : "Black"
+    }
+  ]
+}
